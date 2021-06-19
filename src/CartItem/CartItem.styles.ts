@@ -21,5 +21,4 @@ export const Wrapper = styled.div`
         object-fit: cover;
         margin-left: 40px;    
     }
-
 `;
